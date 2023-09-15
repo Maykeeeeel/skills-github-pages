@@ -1,2 +1,2 @@
-title: "YOUR-TITLE"
-date: "YYY-MMM-DDD"
+title: "PRACTICE IN GITHUB"
+date: "2023-09-15"
