@@ -1,2 +1,2 @@
-title: "my blog post"
-date: "2002/09/15"
+title: "YOUR-TITLE"
+date: "YYY-MMM-DDD"
